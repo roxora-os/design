@@ -11,4 +11,4 @@ Four designs, each in a light and a dark version, 3840×2160. The SVG files are 
 
 Colours are the ones in the main README. The wordmark is Space Grotesk Bold, converted to outlines, so the SVG files do not need the font installed.
 
-Roxora images have no desktop, so no image installs these. They are here for anyone who wants them.
+Roxora's desktop images will add these to the background list in Settings through a `roxora-wallpapers` package; the default wallpaper stays Ubuntu's. The server images do not include them.
