@@ -11,4 +11,10 @@ Four designs, each in a light and a dark version, 3840×2160. The SVG files are 
 
 Colours are the ones in the main README. The wordmark is Space Grotesk Bold, converted to outlines, so the SVG files do not need the font installed.
 
-Roxora's desktop images will add these to the background list in Settings through a `roxora-wallpapers` package; the default wallpaper stays Ubuntu's. The server images do not include them.
+Roxora's images include them through a `roxora-wallpapers` package. On a server image nothing shows; once a GNOME desktop is installed, all four are in the background list in Settings and Facet is the default, light or dark with the desktop's style.
+
+Made by [DavidQyn](https://github.com/DavidQyn) with Ga Hing Woo.
+
+## License
+
+The wallpapers (the files in this directory) are licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0); the full text is in [LICENSE](LICENSE). Credit: "Roxora wallpapers by DavidQyn and Ga Hing Woo". The license covers these images; it does not give rights to use the Roxora name or mark as your own project's.

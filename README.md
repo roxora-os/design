@@ -9,7 +9,7 @@ Logo files for the Roxora Project.
 | `roxora-avatar-500.png` | PNG of the avatar, used for the GitHub org picture. |
 | `roxora-avatar-180.png` | PNG of the avatar at 180 px. |
 | `roxora-mark-32.png`, `-40.png`, `-80.png` | PNG renders of the mark for places that cannot use SVG. |
-| `wallpapers/` | Desktop wallpapers, see [wallpapers/README.md](wallpapers/README.md). |
+| `wallpapers/` | Desktop wallpapers by DavidQyn with Ga Hing Woo, CC BY-SA 4.0; see [wallpapers/README.md](wallpapers/README.md). |
 
 The mark is a faceted stone in three horizontal bands.
 
